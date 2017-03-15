@@ -1,0 +1,133 @@
+
+
+
+
+4mm Hardox 400
+10 x base2v2fordxf.DXF
+2 x base3v2fordxf.DXF
+2 x clamp6fordxf.DXF
+1 x clamp17fordxf.DXF
+2 x clamp19fordxf.DXF
+2 x clamp21fordxf.DXF
+1 x clamp23fordxf.DXF
+1 x clamp24fordxf.DXF
+2 x clampsaddle repeat7fordxf.DXF
+4 x clampsaddle1fordxf.DXF
+2 x clampsaddle3fordxf.DXF
+8 x clampsaddle4fordxf.DXF
+6 x clampsaddle10fordxf.DXF
+5 x clutch plate afordxf.DXF
+5 x clutch plate bfordxf.DXF
+2 x drive motor bearing support v0.2fordxf.DXF
+2 x drive motor mountfordxf.DXF
+4 x fork1fordxf.DXF
+4 x fork2fordxf.DXF
+2 x fork4fordxf.DXF
+1 x fork7 v2fordxf.DXF
+1 x fork8fordxf.DXF
+1 x fork9 v2fordxf.DXF
+
+2 x inner flange platefordxf.DXF
+2 x lifter2v2fordxf.DXF
+8 x lifter3v2fordxf.DXF
+2 x lifter4v2fordxf.DXF
+2 x motor bearing support v2fordxf.DXF
+2 x motor rear mount bracket v0.3fordxf.DXF
+2 x motor rear mount v0.2fordxf.DXF
+4 x motorantirotation1fordxf.DXF
+2 x motorantirotation2fordxf.DXF
+2 x motorantirotation3fordxf.DXF
+2 x motorantirotation4fordxf.DXF
+2 x pod tube gussetfordxf.DXF
+
+
+
+6mm hardox 400
+3 x wedgelet2fordxf.DXF
+
+8mm hardox 400
+2 x fork10fordxf.DXF
+2 x fork18fordxf.DXF
+2 x fork20fordxf.DXF
+
+16mm hardox 500
+2 x clampclaw2.dxf
+
+
+Folding and aluminium
+
+2mm Aluminium
+
+2 x battery box bottom plate v2 fordxf.DXF
+2 x battery pack top plate fordxf.DXF
+2 x battery backboard v4.PDF
+4 x battery box side plate v2.PDF
+2 x battery box top plate v4.PDF
+
+15mm aluminium
+1 x idler saddle clamp v2fordxf.DXF
+1 x idler saddle v4.DXF
+2 x layshaft saddle clamp v2fordxf.DXF
+2 x layshaft saddle v3fordxf.DXF
+
+
+20mm aluminium
+1 x right lifter rail v3fordxf.DXF
+1 x left lifter rail v3fordxf.DXF
+
+25mm aluminium
+1 x lifter gearbox saddle clamp v3fordxf.DXF
+1 x lifter gearbox saddle v3fordxf.DXF
+2 x gearbox saddle clamp v2fordxf.DXF
+2 x gearbox saddle v2fordxf.DXF
+
+
+
+
+2mm copper
+1 x return power busbar v2fordxf.dxf
+1 x power busbar fordxf.DXF
+1 x power busbar linkfordxf.DXF
+1 x swtiched power busbar b v2fordxf.DXF
+1 x swtiched power busbar v3fordxf.DXF
+
+3mm hardox 400
+1 x base1.PDF
+1 x fork15 v2.PDF
+1 x fork16 v2.PDF
+1 x fork27.PDF
+1 x lifter1v2.PDF
+
+4mm Hardox
+1 x clamp4.PDF
+1 x clamp8.PDF
+2 x clamp9.PDF
+1 x clamp10.PDF
+1 x clamp12.PDF
+1 x clamp18.PDF
+1 x clamp20.PDF
+2 x clampsaddle6.PDF
+1 x fork3.PDF
+1 x fork5.PDF
+1 x fork6.PDF
+1 x fork11.PDF
+1 x fork12.PDF
+1 x fork22.PDF
+1 x fork23.PDF
+1 x fork24.PDF
+1 x fork25.PDF
+1 x fork26.PDF
+1 x lifter hardox back armour v0.2.PDF
+1 x link cover v2.PDF
+1 x open hex tube.PDF
+1 x pod tube mirror.PDF
+1 x pod tube mounting plate.PDF
+1 x pod tube mounting platemirror.PDF
+1 x pod tube.PDF
+
+6mm hardox 400
+3 x wedgelet1.PDF
+1 x front wheel mount flared2 mirror.PDF
+1 x front wheel mount flared2.PDF
+1 x rear wheel mount flared mirrored.PDF
+1 x rear wheel mount flaredv0.6.PDF

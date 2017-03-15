@@ -1,0 +1,38 @@
+acknowledgements
+
+This design was helped by the online community sharing their designs. below are the sources fo teh files that were used in our test rigs and final design.
+
+All EC connector family models based on model by Graham Baldwin on grabcad https://grabcad.com/library/connector-for-rc-model
+RS/3dcontent central for indicator LED model 
+
+XT30 by Chrsitian Honig on grabcad https://grabcad.com/library/xt30-connector-1
+
+cable tie model based on model by 'Gregg' on GrabCAd https://grabcad.com/library/cable-tie
+
+cable tie hold down KR5G5-100P by nguyen duc on grabcad https://grabcad.com/library/cable-tie-fixture-misumi-1
+
+vibration isolation VG-2 by RS on 3d content central https://www.3dcontentcentral.com/secure/Download-Partner-Model.aspx?partner=TraceParts&name=Grommet%2canti-vibration%2cVG-2&lang=en&catalogid=7433&id=327894&parturl=https%3a%2f%2fwww.tracepartsonline.net%2fws%2f3dcc%2fproduct.aspx%3ffwsid%3d3DCC%26product%3d10-25012011-082031%26htb%3d1%26lang%3den
+
+VGS-5 screw direct from essentra components
+
+screws, sprockets, most bearings and eclips from solidworks toolbox
+
+chain root model by  Will Bickerstaff from grabcad https://grabcad.com/library/bs-simplex-roller-chains-1
+
+piano hinge modified from model by Michael Ploof from grabcad https://grabcad.com/library/piano-hinge-mcmaster-carr-part-1658a731-1
+
+vice by Husni Fajar on grabcad https://grabcad.com/library/ragum-vice-1/details?folder_id=1902834
+
+jubilee clip by mark flintoft on grabcad https://grabcad.com/library/jubilee-clips-13mm-wide-1
+
+box end wrench by William Truk on 3dcontentcentral https://www.3dcontentcentral.com/secure/download-model.aspx?catalogid=171&id=229573
+
+pillow block bearings from traceparts http://www.tracepartsonline.net/(S(ny1p1buk5kjeki55kkfjhl45))/partdetails.aspx?PartFamilyID=69-19042013-064161&PartID=69-19042013-064161&sk_Reference=&Class=INAFAG&ClsID=/F_INAFAG/&fwsid=INAFAG&ManId=INAFAG
+
+hammond case models direct from www.hammondmfg.com
+
+sliding T bar from cnc-akura on grabcad https://grabcad.com/library/sliding-t-bar-handles
+
+Eye bolt by J.A.N on grabcad https://grabcad.com/library/din-444-eyebolt-m5-m20-different-sizes-1
+
+banana for scale by Stephan on grabcad https://grabcad.com/library/banana-for-scale-1
