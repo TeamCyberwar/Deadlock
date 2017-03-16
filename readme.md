@@ -51,3 +51,6 @@ sliding T bar from cnc-akura on grabcad https://grabcad.com/library/sliding-t-ba
 Eye bolt by J.A.N on grabcad https://grabcad.com/library/din-444-eyebolt-m5-m20-different-sizes-1
 
 banana for scale by Stephan on grabcad https://grabcad.com/library/banana-for-scale-1
+
+#Licence
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
