@@ -8,17 +8,19 @@ Traction and speed is achieved with full four wheel drive, tank style steering, 
 
 Deadlock’s weapon is an electrically powered geared lifter/clamper. Using 2 more of the powerful, high torque, 6kw brushless motors, the lift is fast and aggressive. Opponents can not only be lifted and moved around the arena, they can be slammed overhead or into the ground, bashing them into submission. The gearing is achieved by high torque but compact multi stage planetary gearboxes. The weapon is made safe by means of a locking bar when not in the arena.
 
-## I want a Deadlock of my own`
+## I want a Deadlock of my own!
 If you have an [onshape](http://onshape.com) account (they're free), you can look at and copy [all the CAD models we used when building Deadlock](https://cad.onshape.com/documents?filter=team&teamId=58c42a52575aee0f7acbd498&column=modifiedAt&order=desc).
 If your ambitions are a little smaller, why not build a [scale model of an early iteration](http://www.thingiverse.com/thing:218009) or even a [drivable one](http://www.thingiverse.com/thing:2181223)?
 
+## I *like* Deadlock - where can I find out more?
+We're glad to hear it! The best thing to do is to [like and follow us on Facebook](https://www.facebook.com/teamcyberwar) or [follow us on Twitter](https://twitter.com/deadlockrw).
 
 ## Acknowledgements
 
 This design was helped by the online community sharing their designs. below are the sources of the files that were used in our test rigs and final design.
 
 All EC connector family models based on model by Graham Baldwin on grabcad https://grabcad.com/library/connector-for-rc-model
-RS/3dcontent central for indicator LED model 
+RS/3dcontent central for indicator LED model
 
 XT30 by Chrsitian Honig on grabcad https://grabcad.com/library/xt30-connector-1
 
